@@ -1,0 +1,10 @@
+C:\Users\opilane\source\repos\StonePaperScissors3-master\bin\Debug\StonePaperScissors.exe.config
+C:\Users\opilane\source\repos\StonePaperScissors3-master\bin\Debug\StonePaperScissors.exe
+C:\Users\opilane\source\repos\StonePaperScissors3-master\bin\Debug\StonePaperScissors.pdb
+C:\Users\opilane\source\repos\StonePaperScissors3-master\obj\Debug\StonePaperScissors.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\StonePaperScissors3-master\obj\Debug\StonePaperScissors.OnePlayer.resources
+C:\Users\opilane\source\repos\StonePaperScissors3-master\obj\Debug\StonePaperScissors.Properties.Resources.resources
+C:\Users\opilane\source\repos\StonePaperScissors3-master\obj\Debug\StonePaperScissors.csproj.GenerateResource.cache
+C:\Users\opilane\source\repos\StonePaperScissors3-master\obj\Debug\StonePaperScissors.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\StonePaperScissors3-master\obj\Debug\StonePaperScissors.exe
+C:\Users\opilane\source\repos\StonePaperScissors3-master\obj\Debug\StonePaperScissors.pdb
